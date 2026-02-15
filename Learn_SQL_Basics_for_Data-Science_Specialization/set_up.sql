@@ -1,0 +1,1 @@
+SELECT * FROM sqlite_master where name = 'coffee_production'
