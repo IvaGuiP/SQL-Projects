@@ -1,7 +1,7 @@
 # SQL-Projects
 A showcase of my learning path at SQL
 
-## Learn SQL Basics for Data Science Specialization by UCDavis 
+## Specialization: SQL Basics for Data Science by UCDavis 
 What I'm learning
 
     * Use SQL commands to filter, sort, & summarize data; manipulate strings, dates, & numerical data from different sources for analysis
